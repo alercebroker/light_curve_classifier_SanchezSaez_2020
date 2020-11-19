@@ -1,10 +1,9 @@
 # light_curve_classifier_SanchezSaez_2020
 Code used to train and use the ALeRCE light curve classifier, presented in Sánchez-Sáez et al. 2020 (https://arxiv.org/abs/2008.03311)
 
-The features, classifications and probabilities obtained for the unlabeled ZTF set with data until 2020/06/09 can be downloaded at http://ml.alerce.online/lc_pred.
-To train the model, use the features saved in that file.
+The ZTF labeled set, and the features, classifications and probabilities obtained for the unlabeled ZTF set with data until 2020/06/09 can be downloaded at Zenodo: https://doi.org/10.5281/zenodo.4279623
 
-The file dfcrossmatches_prioritized_v7.0.1.csv contains the labeled set used in Sánchez-Sáez et al. 2020. 
+To train the model, use the features and labels saved in those files.
 
 # Reference
 
